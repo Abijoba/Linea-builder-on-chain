@@ -1,9 +1,9 @@
-# Deploy-a-Simple-Contract-on-EVM
-Deploy a simple contract on EVM's L1 &amp; L2 using Remix  
+# Deploy-builder-on-Linea
+Deploy a simple contract on Linea using Remix  
 
 
 
-1.   Download this Workspace [Satoshi Backup.zip](https://github.com/mztacat/Deploy-a-Simple-Contract-on-EVM/files/10365640/Satoshi.Backup.zip)
+1.   Download this Workspace [Satoshi Backup.zip](https://mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FJ21Mn5OCDDIsC4P-ejWrg.jpg&w=1080&q=75)
 
 2.   Goto Remix IDE by clicking <a href=https://remix.ethereum.org/>here
 
@@ -41,4 +41,4 @@ Click the (view on etherscan) link in the console below the remix screen
  
  WARNING
  
-<i> This code is being provided as is. No guarantee, representation or warranty is being made, express or implied, as to the safety or correctness of the code. It has not been audited and as such there can be no assurance it will work as intended, and users may experience delays, failures, errors, omissions or loss of transmitted information. Nothing in this repo should be construed as investment advice or legal advice for any particular facts or circumstances and is not meant to replace competent counsel. It is strongly advised for you to contact a reputable attorney in your jurisdiction for any questions or concerns with respect thereto. a16z is not liable for any use of the foregoing, and users should proceed with caution and use at their own risk. See a16z.com/disclosures for more info.</i>
+<i> This code is being provided as is. No guarantee, representation or warranty is being made, express or implied, as to the safety or correctness of the code. It has not been audited and as such there can be no assurance it will work as intended, and users may experience delays, failures, errors, omissions or loss of transmitted information. Nothing in this repo should be construed as investment advice or legal advice for any particular facts or circumstances and is not meant to replace competent counsel. It is strongly advised for you to contact a reputable attorney in your jurisdiction for any questions or concerns with respect thereto. Abi is not liable for any use of the foregoing, and users should proceed with caution and use at their own risk.</i>
