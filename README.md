@@ -1,7 +1,8 @@
 # Deploy-builder-on-Linea
 Deploy a simple contract on Linea using Remix  
 
-![image]https://mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FJ21Mn5OCDDIsC4P-ejWrg.jpg&w=1080&q=75
+![image](https://mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FJ21Mn5OCDDIsC4P-ejWrg.jpg&w=1080&q=75)
+
 
 1.   Download this Workspace [Satoshi Backup.zip](https://github.com/mztacat/Deploy-a-Simple-Contract-on-EVM/files/10365640/Satoshi.Backup.zip)
 
